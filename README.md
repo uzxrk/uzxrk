@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Uzair**, you can call me uzi.
-- 👀 I'm your go-to DevOps guy or, if it's creating new pieces of stuff with GoLang or any language!
+- 👀 I'm your go-to DevOps guy or, if it's creating new pieces of stuff with Golang!
 - 🌱 I’m currently honing my Terraform and Golang skills
 - 💞️ I’m looking to collaborate on anything networking / Golang!
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/mohammed-uzair-0ba5b9181)
